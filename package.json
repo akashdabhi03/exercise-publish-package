@@ -1,5 +1,5 @@
 {
-  "name": "sample-package-githubactions",
+  "name": "@akashdabhi03/sample-package-githubactions",
   "version": "1.0.0",
   "description": "Sample package to be published using GitHub Actions workflow",
   "main": "index.js",
