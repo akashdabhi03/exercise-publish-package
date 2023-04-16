@@ -1,6 +1,6 @@
 {
   "name": "@akashdabhi03/sample-package-githubactions",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Sample package to be published using GitHub Actions workflow",
   "main": "index.js",
   "scripts": {
@@ -8,5 +8,8 @@
     "test": "echo \"Error: no test specified\""
   },
   "author": "@akashdabhi03",
-  "license": "SEE LICENSE IN LICENSE"
+  "license": "SEE LICENSE IN LICENSE",
+  "publishConfig": {
+    "@akashdabhi03:registry": "https://npm.pkg.github.com"
+  }
 }
