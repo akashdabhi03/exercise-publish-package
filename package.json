@@ -7,6 +7,6 @@
     "start": "node index.js",
     "test": "echo \"Error: no test specified\""
   },
-  "author": "",
+  "author": "@akashdabhi03",
   "license": "SEE LICENSE IN LICENSE"
 }
