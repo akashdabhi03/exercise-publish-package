@@ -1,3 +1,11 @@
 {
-  "your": "json config here"
+  "name": "sample-package-githubactions",
+  "version": "1.0.0",
+  "description": "Sample package to be published using GitHub Actions workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "SEE LICENSE IN LICENSE"
 }
