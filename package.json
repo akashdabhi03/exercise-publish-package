@@ -4,7 +4,7 @@
   "description": "Sample package to be published using GitHub Actions workflow",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index.js"
   },
   "author": "",
   "license": "SEE LICENSE IN LICENSE"
